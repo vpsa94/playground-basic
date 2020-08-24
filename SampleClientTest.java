@@ -18,7 +18,7 @@ public class SampleClientTest {
 
 	static File file;
 
-	// First test case to execute, this method
+	// First test case to execute
 	@Test
 	public void test1() {
 		URL url = this.getClass().getResource("/last_names.txt");
